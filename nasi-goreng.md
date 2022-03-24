@@ -5,7 +5,7 @@
 - Bumbu Nasi goreng Sajiku
 - Telur 2 butir
 
-## Langkah-langka
+## Langkah-langkah
 1. Goreng telur dengan minyak 
 2. Masukan nasi
 3. Setalah nasi panas, masukkan bumbu nasi goreng
